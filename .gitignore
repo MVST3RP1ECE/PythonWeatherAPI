@@ -1,2 +1,4 @@
 # created by virtualenv automatically
 *
+# Игнорируем файл в любой директории проекта
+JSON.txt
