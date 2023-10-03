@@ -6,7 +6,7 @@ payload = {
     "lat": "54.9358",
     "lon": "43.3235",
     "units": "C",
-    "appid": "011db3d6d15ba9309e2eb66e2f215fa0"  # <-- Deafault API KEY   |   e92ec778e1d3f049afbc15cf745939cb <- Haunt
+    "appid": "Your API key"  # <- Вставить свой API-ключ
     # Нужно зарегаться на https://openweathermap.org/ , получить API ключ и ввести данные
 }
 
