@@ -1,0 +1,12 @@
+Need to install "venv" and requirements.txt
+
+pip freeze - shows installed libs.
+pip freeze > file.txt - inputs list of installed libs. in to the file
+
+python(3) -m (load as script) venv(module name) venv(name venv) - create a venv
+..venv\Scripts\activate - activate the venv
+
+
+source: https://www.youtube.com/watch?v=rsG1Y5k-9jo
+
+

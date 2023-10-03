@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 *JSON.txt
+=======
+# created by virtualenv automatically
+*
+# Игнорируем файл в любой директории проекта
+JSON.txt
+>>>>>>> 32e9b0b47a659b54f25355ca5fcd91c06205203e
